@@ -2,7 +2,7 @@ from typing import Final
 import emoji
 
 
-TOKEN: Final[str] = "1815246769:AAGddDUoCoHRF27a2JGwFj8qmtSno5f6dSM"
+TOKEN: Final[str] = ""
 
 COUNT_STAGES: Final[int]   = 7
 STAGES: Final[tuple]       = tuple([f"resource/images/stage{i}.png" for i in range(1, COUNT_STAGES + 1)])
