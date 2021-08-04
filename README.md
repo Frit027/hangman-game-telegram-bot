@@ -8,5 +8,5 @@
 При создании бота использовалось оффициальное API от Telegram [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) и стандартная библиотка Python.
 ## Пример работы
 <p align="center">
-  <img src="https://media.giphy.com/media/42pQUWWTXH6YzqKdYq/giphy.gif" alt="bot_gif" />
+  <img src="resource\images\bot.gif" width="40%"/>
 </p>
